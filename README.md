@@ -1,18 +1,18 @@
 # ethernetContainerFd
-- Technology specific interface definition for an EthernetContainerFd (Potential of Layer 1 connections)
+- Definition of the potential for frame forwarding
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
-- 1.0.0-tsp.d.t : Model for the Transport SDN Pilot at Telefonica Germany
+- 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica Germany
 
 ### UML
-- to be provided
+- [EthernetContainerFd_1.0.0-tsi.231004.1300](./EthernetContainerFd_1.0.0-tsi.231004.1300.zip)
 
 ### Overview 
-- to be provided
+- [EthernetContainerFd_1.0.0-tsi.231004.1300+overview.1](./EthernetContainerFd_1.0.0-tsi.231004.1300+overview.1.png)
 
 ### GenDoc Export
-- to be provided
+- [EthernetContainerFd_1.0.0-tsi.231004.1300+gendoc.1](./EthernetContainerFd_1.0.0-tsi.231004.1300+gendoc.1.docx)
 
 ### Augmentation Condition 
 - When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_ETHERNET_CONTAINER_LAYER
