@@ -1,24 +1,23 @@
 # ethernetContainerFd
 - Definition of the potential for frame forwarding
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica Germany
 
 ### UML
-- [EthernetContainerFd_1.0.0-tsi.231005.1000](./EthernetContainerFd_1.0.0-tsi.231005.1000.zip)
+- [EthernetContainerFd_1.0.0-tsi.240103.0905](./EthernetContainerFd_1.0.0-tsi.240103.0905.zip)
 
 ### Overview 
-- [EthernetContainerFd_1.0.0-tsi.231005.1000+overview.1](./EthernetContainerFd_1.0.0-tsi.231005.1000+overview.1.png)
+- [EthernetContainerFd_1.0.0-tsi.240103.0905+overview.1](./EthernetContainerFd_1.0.0-tsi.240103.0905+overview.1.png)
 
 ### GenDoc Export
-- [EthernetContainerFd_1.0.0-tsi.231005.1000+gendoc.1](./EthernetContainerFd_1.0.0-tsi.231005.1000+gendoc.1.docx)
+- [EthernetContainerFd_1.0.0-tsi.240103.0905+gendoc.1](./EthernetContainerFd_1.0.0-tsi.240103.0905+gendoc.1.docx)
 
 ### Augmentation Condition 
 - When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_ETHERNET_CONTAINER_LAYER
 
 ### YANG File
-- [EthernetContainerFd_1.0.0-tsi.231005.1000+yang.1](./EthernetContainerFd_1.0.0-tsi.231005.1000+yang.1.zip)
+- [EthernetContainerFd_1.0.0-tsi.240103.0905+yang.1](./EthernetContainerFd_1.0.0-tsi.240103.0905+yang.1.zip)
 
 ### JSON Schema
 - to be provided
